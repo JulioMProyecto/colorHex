@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+}
+.contenedor {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto {
+  font-size: 30px;
+}
+
+.btn {
+  flex-basis: 50px;
+  width: 250px;
+  font-size: 20px;
+  margin: 15px;
+  border-radius: 7px;
+  outline: none;
+  cursor: pointer;
+}
